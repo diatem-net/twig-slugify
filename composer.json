@@ -1,0 +1,13 @@
+{
+    "name": "diatem-net/twig_slugify",
+    "description": "Return slugified string",
+    "type": "drupal-module",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Franz VETTER",
+            "role": "fvetter@diatem.net"
+        }
+    ],
+    "minimum-stability": "dev"
+}

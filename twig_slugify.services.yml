@@ -1,0 +1,6 @@
+services:
+  twig_slugify.twig.slugify:
+    arguments: [ '@renderer' ]
+    class: Drupal\twig_slugify\TwigExtension\Slugify
+    tags:
+      - { name: twig.extension }

@@ -1,0 +1,5 @@
+name: Twig Slugify
+type: module
+description: 'Defines a slugify filter for Twig.'
+package: Diatem
+core_version_requirement: ^8.8 || ^9
